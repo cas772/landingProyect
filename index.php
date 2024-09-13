@@ -7,10 +7,12 @@
     <title>Empresa</title>
 </head>
 <body>
+<div id="contenedor">
 <header></header>
 <section></section>
 <aside></aside>
 <footer></footer>
+</div>
 <script type="text/javascript" src="js/code.js"></script>    
 </body>
 </html>
