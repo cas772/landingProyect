@@ -8,7 +8,10 @@
 </head>
 <body>
 <div id="contenedor">
-<header></header>
+<header>
+    <div class="logo"></div>
+    <nav id="cabeprincipal"></nav>
+</header>
 <section></section>
 <aside></aside>
 <footer></footer>
