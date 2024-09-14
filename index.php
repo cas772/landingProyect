@@ -9,8 +9,18 @@
 <body>
 <div id="contenedor">
 <header>
-    <div class="logo"></div>
-    <nav id="cabeprincipal"></nav>
+    <div class="logo">
+        <img src="imagenes/log1.svg" alt="logo-de-empresa">
+    </div>
+    <h1>VerdUP</h1>
+    <nav id="botoprincipal">
+        <ul>
+            <li><a href="" class="btns">boto1</a></li>
+            <li><a href="" class="btns">boto2</a></li>
+            <li><a href="" class="btns">boto3</a></li>
+            <li><a href="" class="btns">boto4</a></li>
+        </ul>
+    </nav>
 </header>
 <section></section>
 <aside></aside>

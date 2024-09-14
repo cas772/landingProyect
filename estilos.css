@@ -15,7 +15,7 @@ body {
     
     }
 header {
-    height: 150px;
+    height: 200px;
     background-color: #66bb49;
 }
 section {
@@ -25,4 +25,38 @@ section {
 footer {
     height: 150px;
     background-color: #25451b;
+}
+/*Header*/
+.logo {
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+h1 {
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+#botoprincipal {
+    width: 400px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
+#botoprincipal ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 30px;
+}
+.btns {
+    text-decoration: none;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 30%;
 }
