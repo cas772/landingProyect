@@ -24,7 +24,18 @@
 </header>
 <section></section>
 <aside></aside>
-<footer></footer>
+<footer>
+    <div class="logo" id="logofooter">
+        <img src="imagenes/log1.svg" alt="logo-de-empresa">
+    </div>
+    <div id="redeso">
+        <a href="http://"><img src="imagenes/wasaimg.png" alt="Icono enlace a whatsApp"></a>
+        <a href="http://"><img src="imagenes/emailimg.png" alt="Icono enlace a correo"></a>
+        <a href="http://"><img src="imagenes/emafaceimg.png" alt="Icono enlace a Facebook"></a>
+        <a href="http://"><img src="imagenes/instag-img.png" alt="Icono enlace a Instagram"></a>
+    </div>
+    <div id="pinherit"></div>
+</footer>
 </div>
 <script type="text/javascript" src="js/code.js"></script>    
 </body>
