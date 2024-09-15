@@ -15,10 +15,10 @@
     <h1>VerdUP</h1>
     <nav id="botoprincipal">
         <ul>
-            <li><a href="" class="btns">boto1</a></li>
-            <li><a href="" class="btns">boto2</a></li>
-            <li><a href="" class="btns">boto3</a></li>
-            <li><a href="" class="btns">boto4</a></li>
+            <li><a href="" class="btns">Acerca de Nosotros</a></li>
+            <li><a href="" class="btns">¿Cómo comprar?</a></li>
+            <li><a href="" class="btns">Productos</a></li>
+            <li><a href="" class="btns">Contacto</a></li>
         </ul>
     </nav>
 </header>

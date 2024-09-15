@@ -9,18 +9,16 @@ body {
 #contenedor {
     background-color: #a2f986;
     width:960px;
-    height:auto;
     margin-left:auto;
     margin-right:auto;
-    
     }
 header {
     height: 200px;
-    background-color: #66bb49;
+    background: url(imagenes/perjil24.jpeg);
 }
 section {
     height: 300px;
-    background-color: #9cde87;
+    background: linear-gradient(to top, white, #32a852);
 }
 /*Header*/
 .logo {
@@ -31,35 +29,40 @@ section {
 }
 h1 {
     display: inline-block;
+    color: white;
     text-align: center;
+    text-shadow: 4px 4px 4px black;
     font-size: 50px;
     margin-left: 50px;
     margin-bottom: 0px;
-    padding-bottom: 20px;
 }
 #botoprincipal {
-    width: 400px;
     margin-top: 0px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-    background-color: aqua;
+    background-color: #32a852;
 }
 #botoprincipal ul li {
     display: inline-block;
     list-style: none;
-    margin-left: 30px;
+    margin-left: 60px;
 }
 .btns {
     text-decoration: none;
-    background-color: blue;
+    background-color: white;
     padding: 5px;
     border-radius: 30%;
+}
+.btns:hover {
+    background-color: #84f7a2;
+    font-weight: bold;
+    border-radius: 0%;
 }
 /*footer*/
 footer {
     height: 80px;
-    background-color: white;
+    background-color: white; 
 }
 #redeso {
     display: block;
