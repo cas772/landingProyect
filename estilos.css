@@ -12,15 +12,11 @@ body {
     margin-left:auto;
     margin-right:auto;
     }
+/*Header*/
 header {
     height: 200px;
     background: url(imagenes/perjil24.jpeg);
 }
-section {
-    height: 300px;
-    background: linear-gradient(to top, white, #32a852);
-}
-/*Header*/
 .logo {
     display: inline-block;
     width: 100px;
@@ -59,6 +55,22 @@ h1 {
     font-weight: bold;
     border-radius: 0%;
 }
+/*section*/
+section {
+    height: 300px;
+    background: linear-gradient(to top, white, #32a852);
+}
+#descripcionProd {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+#imgProd {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
 /*footer*/
 footer {
     height: 80px;

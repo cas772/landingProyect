@@ -22,7 +22,14 @@
         </ul>
     </nav>
 </header>
-<section></section>
+<section>
+    <div id="descripcionProd">
+
+    </div>
+    <div id="imgProd">
+        
+    </div>
+</section>
 <aside></aside>
 <footer>
     <div class="logo" id="logofooter">
