@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="estilos.css">
-    <title>Empresa</title>
+    <title>VerdUP</title>
 </head>
 <body>
 <div class="contenedor">
@@ -23,12 +23,12 @@
     </nav>
 </header>
 <section>
-    <div id="descripcionProd">
+<div id="descripcionProd">
 
-    </div>
-    <div id="imgProd">
-        
-    </div>
+</div>
+<div id="imgProd">
+    
+</div>
 </section>
 <aside></aside>
 <footer>

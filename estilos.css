@@ -6,7 +6,7 @@ body {
 	background-color: #63ed35;
 	margin:0;
 	}
-#contenedor {
+.contenedor {
     background-color: #a2f986;
     width:960px;
     margin-left:auto;
@@ -32,14 +32,14 @@ h1 {
     margin-left: 50px;
     margin-bottom: 0px;
 }
-#botoprincipal {
+.botoprincipal {
     margin-top: 0px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
     background-color: #32a852;
 }
-#botoprincipal ul li {
+.botoprincipal ul li {
     display: inline-block;
     list-style: none;
     margin-left: 60px;
@@ -61,22 +61,29 @@ section {
     background: linear-gradient(to top, white, #32a852);
 }
 #descripcionProd {
-    width: 100px;
-    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 450px;
+    height: 250px;
     background-color: aqua;
+    float: left;
 }
 #imgProd {
-    width: 100px;
-    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 450px;
+    height: 250px;
     background-color: blueviolet;
+    float: left;
 }
 
 /*footer*/
 footer {
+    position: inherit;
     height: 80px;
     background-color: white; 
 }
-#redeso {
+.redeso {
     display: block;
     float: right;
     width: 320px;
@@ -85,11 +92,4 @@ footer {
 footer img {
     width: 50px;
     margin-left: 20px;
-}
-#logofooter {
-    float: right;
-    margin-top: 10px;
-}
-#pinherit {
-    display: inherit;
 }
